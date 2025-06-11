@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Antux Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://web.local
+Data file = /Users/mind/Desktop/sam/website/app/public/wp-content/themes/antux/inc/demo-data/antux-demo.xml
+Widget file = /Users/mind/Desktop/sam/website/app/public/wp-content/themes/antux/inc/demo-data/antux-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+antux_opt -> /Users/mind/Desktop/sam/website/app/public/wp-content/themes/antux/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Antux :: Recent Posts - Recent Post - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: antux_opt finished successfully!
+
+---ocdi/after_import---
+
